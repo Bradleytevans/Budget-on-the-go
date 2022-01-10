@@ -1,9 +1,9 @@
-# notes-on-notes
+# Budget-on-the-go
 
 ![Badge for license](https://img.shields.io/badge/license-GNU_AGPLv3-blue)
 
 ## Description
-A note taking application that allows the user to store and delete notes. It was built using express and deployed live with heroku.
+A budget calculator that can be used either on or offline, built with mongodb and deployed with heroku.
 
 ## Table of Contents
 * [Installation](#installation)
